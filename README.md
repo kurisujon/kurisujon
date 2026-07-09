@@ -92,15 +92,7 @@ I am a Full-Stack Developer dedicated to building intelligent, data-centric prod
   <img src="https://komarev.com/ghpvc/?username=kurisujon&label=Profile%20views&color=3B82F6&style=flat" alt="Profile views" />
 </div>
 
-<!-- GitHub Stats Section -->
-<h2 align="left">📈 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kurisujon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=3B82F6&icon_color=3B82F6&text_color=a1a1aa" alt="Cris John's GitHub stats" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurisujon&theme=tokyonight&hide_border=true&background=0a0a0a&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideNums=a1a1aa&currStreakNum=ffffff&sideLabels=a1a1aa&dates=a1a1aa" alt="Cris John's GitHub streak" />
-</div>
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=1e3a8a,4b5563&height=120&section=footer" alt="footer" />

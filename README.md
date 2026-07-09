@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Web+Systems+%F0%9F%92%BB;AI-driven+Workflows+%7C+Resilient+APIs;Creating+Clean+UIs+%26+Automation+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Engineering+AI-Powered+Systems+%F0%9F%A4%96;Architecting+AI-driven+Workflows+%E2%9A%99%EF%B8%8F;Creating+Intelligent+Automations+%E2%9A%A1;Seamless+LLM+%26+API+Integrations+%F0%9F%8C%90" alt="Typing SVG" />
 </div>
 
 <p align="center">

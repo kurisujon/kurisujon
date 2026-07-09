@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=1e3a8a,4b5563&height=200&section=header&text=Cris%20John&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Fullstack%20AI%20Developer&descAlignY=58&descAlign=50&v=3" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1e3a8a,4b5563&height=200&section=header&text=Cris%20John&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Fullstack%20AI%20Developer&descAlignY=58&descAlign=50&v=4" alt="header" />
 </div>
 
 <div align="center">
@@ -95,7 +95,7 @@ I am a Full-Stack Developer dedicated to building intelligent, data-centric prod
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=1e3a8a,4b5563&height=120&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1e3a8a,4b5563&height=120&section=footer&v=4" alt="footer" />
 </div>
 
 <!-- GitHub Stats Section -->

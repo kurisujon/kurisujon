@@ -10,14 +10,7 @@
   <em>Architecting scalable systems, resilient APIs, and AI-driven workflows.</em>
 </p>
 
-<div align="center">
-  <a href="https://www.webcris.dev/">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-0a0a0a?style=for-the-badge&logo=Website&logoColor=3B82F6&labelColor=0a0a0a&color=3B82F6" alt="Portfolio" />
-  </a>
-  <a href="mailto:johncrislabiaga@gmail.com">
-    <img src="https://img.shields.io/badge/Send_an_Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=3B82F6&labelColor=0a0a0a&color=3B82F6" alt="Email" />
-  </a>
-</div>
+
 
 <br/>
 
@@ -95,6 +88,8 @@ I am a Full-Stack Developer dedicated to building intelligent, data-centric prod
   <a href="mailto:johncrislabiaga@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=kurisujon&label=Profile%20views&color=3B82F6&style=flat" alt="Profile views" />
 </div>
 
 <!-- GitHub Stats Section -->
@@ -105,4 +100,8 @@ I am a Full-Stack Developer dedicated to building intelligent, data-centric prod
   <br/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurisujon&theme=tokyonight&hide_border=true&background=0a0a0a&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideNums=a1a1aa&currStreakNum=ffffff&sideLabels=a1a1aa&dates=a1a1aa" alt="Cris John's GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=1e3a8a,4b5563&height=120&section=footer" alt="footer" />
 </div>

@@ -24,7 +24,7 @@ I am a Full-Stack Developer dedicated to building intelligent, data-centric prod
 - ⚡ **What I Do:** Build resilient APIs (Node.js/FastAPI), craft dynamic frontend experiences (Next.js/Tailwind), and integrate advanced AI capabilities (LangChain/Gemini).
 - 🎯 **Experience:** From engineering robust government platforms (LTS) to building custom AI-powered solutions, I love pushing the boundaries of what technology can achieve.
 
-*I believe in building applications that are not only functional but also intuitive and visually stunning. Let's build something impactful!*
+*I believe in architecting end-to-end systems where scalable infrastructure meets intelligent, AI-driven automation. Let's build something impactful!*
 
 <br/>
 

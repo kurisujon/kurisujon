@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=45&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi,+I'm+Cris+John+👋;Full-Stack+Developer;AI+%26+Automation+Builder" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=3B82F6&height=200&section=header&text=Cris%20John&fontSize=80&fontColor=fff&animation=scaleIn&fontAlignY=40&desc=Fullstack%20AI%20Developer&descSize=20&descAlignY=65&descAlign=50" alt="header" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Web+Systems+%F0%9F%92%BB;AI-driven+Workflows+%7C+Resilient+APIs;Creating+Clean+UIs+%26+Automation+Systems" alt="Typing SVG" />
 </div>
 
 <p align="center">

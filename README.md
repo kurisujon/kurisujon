@@ -1,53 +1,35 @@
-<!-- Custom Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,10,25&height=200&section=header&text=Cris%20John&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=51&descAlign=50" alt="header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=45&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi,+I'm+Cris+John+👋;Full-Stack+Developer;AI+%26+Automation+Builder" alt="Typing SVG" />
 </div>
 
+<p align="center">
+  <em>Architecting scalable systems, resilient APIs, and AI-driven workflows.</em>
+</p>
+
 <div align="center">
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Web+Systems+%F0%9F%92%BB;AI-driven+Workflows+%7C+Resilient+APIs;Full+Stack+Development+%F0%9F%9A%80;Creating+Clean+UIs+%26+Automation+Systems)](https://git.io/typing-svg)
-
+  <a href="https://www.webcris.dev/">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-0a0a0a?style=for-the-badge&logo=Website&logoColor=3B82F6&labelColor=0a0a0a&color=3B82F6" alt="Portfolio" />
+  </a>
+  <a href="mailto:johncrislabiaga@gmail.com">
+    <img src="https://img.shields.io/badge/Send_an_Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=3B82F6&labelColor=0a0a0a&color=3B82F6" alt="Email" />
+  </a>
 </div>
+
+<br/>
 
 <!-- About Me Section -->
-<h2 align="left">🚀 About Me</h2>
+<h2 align="left">👨‍💻 About Me</h2>
 
-```typescript
-const crisJohn = {
-    role: "Full Stack Developer",
-    code: ["TypeScript", "JavaScript", "Python", "PHP", "Java", "SQL"],
-    askMeAbout: ["Web Dev", "AI Integrations", "APIs", "Automation"],
-    technologies: {
-        frontEnd: {
-            js: ["Next.js", "React", "React Native"],
-            css: ["Tailwind CSS"]
-        },
-        backEnd: {
-            js: ["Node.js"],
-            python: ["FastAPI"],
-            php: ["Laravel"],
-            other: ["Rest APIs", "n8n"]
-        },
-        aiML: {
-            llms: ["Google Gemini", "LLM Integration"],
-            frameworks: ["LangChain"],
-            vectorDBs: ["Qdrant"]
-        },
-        databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis", "Supabase", "Firebase"],
-        devOps: ["Docker", "Nginx", "AWS", "Azure", "GitHub Actions", "CI/CD"]
-    },
-    currentFocus: "Architecting workflows with data-crawling and AI-driven logic",
-    mission: "Creating scalable web systems with clean UI and AI integrations."
-};
-```
+I am a Full-Stack Developer dedicated to building intelligent, data-centric products and automation systems. 
 
-<p align="left">
-As a Full-Stack Developer, I am dedicated to building intelligent, data-centric products and automation systems. I specialize in architecting workflows where data-crawling and AI-driven logic are core components, delivering scalable applications that multiply team productivity and future-proof business operations.
+- 🔭 **Current Focus:** I specialize in architecting workflows where data-crawling and AI-driven logic are core components.
+- 💡 **My Mission:** Delivering scalable applications that multiply team productivity and future-proof business operations.
+- ⚡ **What I Do:** Build resilient APIs (Node.js/FastAPI), craft dynamic frontend experiences (Next.js/Tailwind), and integrate advanced AI capabilities (LangChain/Gemini).
+- 🎯 **Experience:** From engineering robust government platforms (LTS) to building custom AI-powered solutions, I love pushing the boundaries of what technology can achieve.
 
-Whether it's building resilient APIs with Node.js and FastAPI, creating dynamic frontend experiences with Next.js and Tailwind CSS, or integrating advanced AI capabilities using LangChain and Google Gemini, I thrive on solving complex problems. My robust tech stack allows me to handle end-to-end development, ensuring secure, highly available, and scalable systems.
+*I believe in building applications that are not only functional but also intuitive and visually stunning. Let's build something impactful!*
 
-I believe in building applications that are not only functional but also intuitive and visually stunning. From my experience developing government platforms to building custom AI-powered solutions, I am always eager to push the boundaries of what technology can achieve. Let's build something impactful! 🚀
-</p>
+<br/>
 
 <!-- Skills Section -->
 <h2 align="left">🛠️ Technologies & Tools</h2>

@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1e3a8a,4b5563&height=200&section=header&text=Cris%20John&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Fullstack%20AI%20Developer&descAlignY=58&descAlign=50&v=4" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1e3a8a,3b82f6&height=200&section=header&text=Cris%20John&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Fullstack%20AI%20Developer&descAlignY=58&descAlign=50&v=5" alt="header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Engineering+AI-Powered+Systems+%F0%9F%A4%96;Architecting+AI-driven+Workflows+%E2%9A%99%EF%B8%8F;Creating+Intelligent+Automations+%E2%9A%A1;Seamless+LLM+%26+API+Integrations+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Engineering+AI-Powered+Systems;Architecting+AI-driven+Workflows;Creating+Intelligent+Automations;Seamless+LLM+%26+API+Integrations" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -95,7 +95,7 @@ I am a Full-Stack Developer dedicated to building intelligent, data-centric prod
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1e3a8a,4b5563&height=120&section=footer&v=4" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1e3a8a,3b82f6&height=120&section=footer&v=5" alt="footer" />
 </div>
 
 <!-- GitHub Stats Section -->

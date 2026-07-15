@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=1e3a8a,4b5563&height=200&section=header&text=Cris%20John&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Fullstack%20AI%20Developer&descAlignY=58&descAlign=50&v=6" alt="header" />
+  <img src="github-banner.svg" alt="Premium Liquid Glass Banner" width="100%" />
 </div>
 
 <div align="center">

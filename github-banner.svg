@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="50%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#1E293B" />
+    </linearGradient>
+
+    <!-- Blob Gradients -->
+    <radialGradient id="blob1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.55" />
+      <stop offset="60%" stop-color="#3B82F6" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0" />
+    </radialGradient>
+    
+    <radialGradient id="blob2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.45" />
+      <stop offset="60%" stop-color="#8B5CF6" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="blob3" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#EC4899" stop-opacity="0.35" />
+      <stop offset="60%" stop-color="#EC4899" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#EC4899" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="blob4" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#60A5FA" stop-opacity="0.4" />
+      <stop offset="60%" stop-color="#60A5FA" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#60A5FA" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="highlight" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#F8FAFC" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#F8FAFC" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Heavy Gaussian Blur -->
+    <filter id="liquid-blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="80" />
+    </filter>
+  </defs>
+
+  <style>
+    /* Fluid morphing and drifting animations */
+    @keyframes drift1 {
+      0%, 100% { transform: translate(0px, 0px) scale(1); }
+      33% { transform: translate(70px, -30px) scale(1.08, 0.92); }
+      66% { transform: translate(-30px, 50px) scale(0.92, 1.08); }
+    }
+    @keyframes drift2 {
+      0%, 100% { transform: translate(0px, 0px) scale(1); }
+      33% { transform: translate(-60px, 40px) scale(0.95, 1.05); }
+      66% { transform: translate(40px, -40px) scale(1.05, 0.95); }
+    }
+    @keyframes drift3 {
+      0%, 100% { transform: translate(0px, 0px) scale(1); }
+      50% { transform: translate(90px, 25px) scale(1.15, 0.85); }
+    }
+    @keyframes drift4 {
+      0%, 100% { transform: translate(0px, 0px) scale(1); }
+      50% { transform: translate(-70px, -50px) scale(0.85, 1.15); }
+    }
+    
+    .blob1 { animation: drift1 22s ease-in-out infinite; transform-origin: 150px 160px; }
+    .blob2 { animation: drift2 25s ease-in-out infinite; transform-origin: 1100px 250px; }
+    .blob3 { animation: drift3 18s ease-in-out infinite; transform-origin: 950px -50px; }
+    .blob4 { animation: drift4 20s ease-in-out infinite; transform-origin: 300px 380px; }
+
+    /* Typography */
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-size: 54px;
+      font-weight: 800;
+      fill: #F8FAFC;
+      letter-spacing: -1.5px;
+    }
+    .subtitle {
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Roboto, sans-serif;
+      font-size: 20px;
+      font-weight: 500;
+      fill: #94A3B8;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+    }
+  </style>
+
+  <!-- Base Solid Background -->
+  <rect width="100%" height="100%" fill="url(#bg)" />
+
+  <!-- Liquid Glass Mesh Container -->
+  <g filter="url(#liquid-blur)">
+    <!-- Primary Blue (Left Blob) -->
+    <g class="blob1">
+      <ellipse cx="150" cy="160" rx="450" ry="350" fill="url(#blob1)" />
+      <!-- Radial highlight for ambient glow / bloom -->
+      <ellipse cx="100" cy="100" rx="200" ry="150" fill="url(#highlight)" />
+    </g>
+    
+    <!-- Deep Purple (Right Lower Blob) -->
+    <g class="blob2">
+      <ellipse cx="1100" cy="250" rx="550" ry="400" fill="url(#blob2)" />
+      <ellipse cx="1150" cy="300" rx="250" ry="200" fill="url(#highlight)" />
+    </g>
+
+    <!-- Hot Pink Accent (Right Upper Blob) -->
+    <g class="blob3">
+      <ellipse cx="950" cy="-50" rx="400" ry="300" fill="url(#blob3)" />
+    </g>
+
+    <!-- Cyan Accent (Left Lower Blob) -->
+    <g class="blob4">
+      <ellipse cx="300" cy="380" rx="350" ry="250" fill="url(#blob4)" />
+    </g>
+  </g>
+
+  <!-- Overlay Text -->
+  <!-- Subtle dark drop shadow to guarantee contrast regardless of liquid movement -->
+  <text x="50%" y="46%" text-anchor="middle" dominant-baseline="middle" class="title" style="filter: drop-shadow(0px 4px 12px rgba(0,0,0,0.4));">Cris John</text>
+  <text x="50%" y="65%" text-anchor="middle" dominant-baseline="middle" class="subtitle" style="filter: drop-shadow(0px 2px 8px rgba(0,0,0,0.4));">Fullstack AI Developer</text>
+</svg>

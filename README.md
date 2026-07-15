@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="github-banner.svg" alt="Premium Liquid Glass Banner" width="100%" />
+  <img src="https://ghrb.waren.build/banner?header=Cris+John&subheader=Fullstack+AI+Developer&bg=0A0A0A-1E3A8A&color=FFFFFF&watermarkpos=bottom-right" alt="GitHub Repo Banner" />
 </div>
 
 <div align="center">

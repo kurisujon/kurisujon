@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-banner-canu.vercel.app/api/banner?theme=plasma&text=Cris+John&subtitle=Fullstack+AI+Developer&primary=EC4899&secondary=8B5CF6&accent=60A5FA&background=3A0D47&titleFont=-apple-system%2C+BlinkMacSystemFont%2C+%27Inter%27%2C+%27Segoe+UI%27%2C+Roboto%2C+sans-serif&titleSize=96&titleWeight=800&subtitleFont=-apple-system%2C+BlinkMacSystemFont%2C+%27Inter%27%2C+%27Segoe+UI%27%2C+Roboto%2C+sans-serif&subtitleSize=28&subtitleWeight=500&animationSpeed=1&blur=40&radius=16&showGlow=false&showNoise=true&blobCount=8&gooeyStrength=12&starCount=100&waveCount=3&amplitude=80&count=50" alt="GitHub Repo Banner" />
+  <img src="https://github-banner-canu.vercel.app/api/banner?theme=plasma&text=Cris+John&subtitle=Fullstack+AI+Developer&primary=4F46E5&secondary=06B6D4&accent=14B8A6&background=100938&titleFont=%27Outfit%27%2C+sans-serif&titleSize=96&titleWeight=800&subtitleFont=%27Outfit%27%2C+sans-serif&subtitleSize=28&subtitleWeight=700&animationSpeed=0.5&blur=40&radius=16&showGlow=false&showNoise=true&blobCount=8&gooeyStrength=12&starCount=100&waveCount=3&amplitude=80&count=50" alt="GitHub Repo Banner" />
 </div>
 
 <div align="center">
@@ -95,7 +95,7 @@ I am a Full-Stack Developer dedicated to building intelligent, data-centric prod
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=1e3a8a,4b5563&height=120&section=footer&v=6" alt="footer" />
+  <img src="https://github-banner-canu.vercel.app/api/banner?theme=plasma&text=&subtitle=&primary=4F46E5&secondary=06B6D4&accent=14B8A6&background=100938&animationSpeed=0.5&blur=40&radius=0&showNoise=true&height=120&section=footer" alt="footer" />
 </div>
 
 <!-- GitHub Stats Section -->

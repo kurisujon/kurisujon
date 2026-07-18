@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ghrb.waren.build/banner?header=Cris+John&subheader=Fullstack+AI+Developer&bg=0A0A0A-1E3A8A&color=FFFFFF&watermarkpos=bottom-right" alt="GitHub Repo Banner" />
+  <img src="https://github-banner-canu.vercel.app/api/banner?theme=plasma&text=Cris+John&subtitle=Fullstack+AI+Developer&primary=EC4899&secondary=8B5CF6&accent=60A5FA&background=3A0D47&titleFont=-apple-system%2C+BlinkMacSystemFont%2C+%27Inter%27%2C+%27Segoe+UI%27%2C+Roboto%2C+sans-serif&titleSize=96&titleWeight=800&subtitleFont=-apple-system%2C+BlinkMacSystemFont%2C+%27Inter%27%2C+%27Segoe+UI%27%2C+Roboto%2C+sans-serif&subtitleSize=28&subtitleWeight=500&animationSpeed=1&blur=40&radius=16&showGlow=false&showNoise=true&blobCount=8&gooeyStrength=12&starCount=100&waveCount=3&amplitude=80&count=50" alt="GitHub Repo Banner" />
 </div>
 
 <div align="center">

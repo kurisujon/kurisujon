@@ -15,33 +15,57 @@
 <!-- About Me Section -->
 <h2 align="left">👨‍💻 About Me</h2>
 
-<p>
-  I am a <b>Full-Stack & AI Systems Developer</b> dedicated to engineering intelligent, data-centric products and scalable automation systems.
+<p align="left">
+  👋 Hello! I'm <b>Cris John Labiaga</b>, a <b>Full-Stack & AI Systems Developer</b> specializing in building high-performance web applications, intelligent automation, and data-centric AI workflows.
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-3B82F6?style=for-the-badge&logo=openai&logoColor=white" alt="AI Focus" />
+  <img src="https://img.shields.io/badge/Stack-Full--Stack%20Web-06B6D4?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/Architecture-Scalable%20APIs-14B8A6?style=for-the-badge&logo=fastapi&logoColor=white" alt="API Architecture" />
 </p>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🔭 Focus & Expertise</h3>
+      <h3>🚀 Core Focus & Technical Strengths</h3>
       <ul>
-        <li><b>AI & Data Workflows:</b> Architecting data crawling pipelines & AI-driven decision logic.</li>
-        <li><b>Backend & APIs:</b> Building high-performance microservices with <b>Node.js</b> & <b>FastAPI</b>.</li>
-        <li><b>Modern Frontend:</b> Crafting dynamic, responsive UI with <b>Next.js</b> & <b>Tailwind CSS</b>.</li>
+        <li>🤖 <b>AI & Agentic Workflows:</b> Integrating <b>LangChain</b> and <b>Google Gemini</b> to build intelligent decision engines, RAG pipelines, and automated agent workflows.</li>
+        <li>⚡ <b>Backend & Microservices:</b> Designing high-concurrency, resilient APIs and microservices using <b>Node.js</b> and <b>FastAPI</b>.</li>
+        <li>💻 <b>Modern Frontend:</b> Crafting fluid, responsive, and accessible web applications with <b>Next.js</b>, <b>React</b>, and <b>Tailwind CSS</b>.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🎯 Impact & Experience</h3>
+      <h3>🏛️ Experience & Engineering Impact</h3>
       <ul>
-        <li><b>Government & Enterprise:</b> Engineered mission-critical systems (<b>LTS</b>) with high reliability.</li>
-        <li><b>AI Integration:</b> Harnessing <b>LangChain</b> & <b>Google Gemini</b> for custom agentic solutions.</li>
-        <li><b>Mission:</b> Delivering scalable software that multiplies team productivity and drives business value.</li>
+        <li>💼 <b>Enterprise Platform Experience:</b> Engineered mission-critical systems (including government platforms like <b>LTS</b>) handling high-throughput data operations.</li>
+        <li>⚙️ <b>Data Automation:</b> Architecting automated web scraping, data ingestion pipelines, and ETL processes that streamline complex data workflows.</li>
+        <li>💡 <b>Mission:</b> Delivering robust software that multiplies team productivity, eliminates manual overhead, and future-proofs infrastructure.</li>
       </ul>
     </td>
   </tr>
 </table>
 
+<br/>
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <b>💼 Role:</b> Full-Stack & AI Developer
+    </td>
+    <td align="center">
+      <b>🌍 Availability:</b> Remote / Full-Time Roles
+    </td>
+    <td align="center">
+      <b>🌐 Portfolio:</b> <a href="https://www.webcris.dev/" target="_blank">webcris.dev</a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <blockquote align="center">
-  💡 <i>"Architecting end-to-end systems where scalable infrastructure meets intelligent, AI-driven automation."</i>
+  ✨ <i>"Engineering end-to-end digital solutions where scalable infrastructure meets intelligent, AI-driven automation."</i>
 </blockquote>
 
 <br/>

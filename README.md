@@ -10,21 +10,39 @@
   <em>Architecting scalable systems, resilient APIs, and AI-driven workflows.</em>
 </p>
 
-
-
 <br/>
 
 <!-- About Me Section -->
 <h2 align="left">👨‍💻 About Me</h2>
 
-I am a Full-Stack Developer dedicated to building intelligent, data-centric products and automation systems. 
+<p>
+  I am a <b>Full-Stack & AI Systems Developer</b> dedicated to engineering intelligent, data-centric products and scalable automation systems.
+</p>
 
-- 🔭 **Current Focus:** I specialize in architecting workflows where data-crawling and AI-driven logic are core components.
-- 💡 **My Mission:** Delivering scalable applications that multiply team productivity and future-proof business operations.
-- ⚡ **What I Do:** Build resilient APIs (Node.js/FastAPI), craft dynamic frontend experiences (Next.js/Tailwind), and integrate advanced AI capabilities (LangChain/Gemini).
-- 🎯 **Experience:** From engineering robust government platforms (LTS) to building custom AI-powered solutions, I love pushing the boundaries of what technology can achieve.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔭 Focus & Expertise</h3>
+      <ul>
+        <li><b>AI & Data Workflows:</b> Architecting data crawling pipelines & AI-driven decision logic.</li>
+        <li><b>Backend & APIs:</b> Building high-performance microservices with <b>Node.js</b> & <b>FastAPI</b>.</li>
+        <li><b>Modern Frontend:</b> Crafting dynamic, responsive UI with <b>Next.js</b> & <b>Tailwind CSS</b>.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 Impact & Experience</h3>
+      <ul>
+        <li><b>Government & Enterprise:</b> Engineered mission-critical systems (<b>LTS</b>) with high reliability.</li>
+        <li><b>AI Integration:</b> Harnessing <b>LangChain</b> & <b>Google Gemini</b> for custom agentic solutions.</li>
+        <li><b>Mission:</b> Delivering scalable software that multiplies team productivity and drives business value.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-*I believe in architecting end-to-end systems where scalable infrastructure meets intelligent, AI-driven automation. Let's build something impactful!*
+<blockquote align="center">
+  💡 <i>"Architecting end-to-end systems where scalable infrastructure meets intelligent, AI-driven automation."</i>
+</blockquote>
 
 <br/>
 
@@ -78,6 +96,8 @@ I am a Full-Stack Developer dedicated to building intelligent, data-centric prod
 
 </div>
 
+<br/>
+
 <!-- Contact Section -->
 <h2 align="left">📫 Get in Touch</h2>
 
@@ -94,10 +114,6 @@ I am a Full-Stack Developer dedicated to building intelligent, data-centric prod
 
 <br/>
 
-<div align="center">
-  <img src="https://github-banner-canu.vercel.app/api/banner?theme=plasma&text=&subtitle=&primary=4F46E5&secondary=06B6D4&accent=14B8A6&background=100938&animationSpeed=0.5&blur=40&radius=0&showNoise=true&height=120&section=footer" alt="footer" />
-</div>
-
 <!-- GitHub Stats Section -->
 <h2 align="left">📈 GitHub Stats</h2>
 
@@ -106,4 +122,10 @@ I am a Full-Stack Developer dedicated to building intelligent, data-centric prod
   <br/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurisujon&theme=tokyonight&hide_border=true&background=0a0a0a&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideNums=a1a1aa&currStreakNum=ffffff&sideLabels=a1a1aa&dates=a1a1aa" alt="Cris John's GitHub streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-banner-canu.vercel.app/api/banner?theme=plasma&text=&subtitle=&primary=4F46E5&secondary=06B6D4&accent=14B8A6&background=100938&animationSpeed=0.5&blur=40&radius=0&showNoise=true&height=120&section=footer" alt="footer" />
 </div>
